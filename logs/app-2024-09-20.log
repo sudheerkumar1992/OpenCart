@@ -1,0 +1,271 @@
+[INFO ] 2024-09-20 15:46:58.201 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2024-09-20 15:46:58.231 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-09-20 15:46:58.235 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:46:58.235 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:46:58.236 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:46:58.237 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:46:58.238 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:46:58.238 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:46:58.249 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+[INFO ] 2024-09-20 15:46:58.268 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 19 ms.
+[INFO ] 2024-09-20 15:46:58.271 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:46:58.272 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:46:58.273 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:46:58.274 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:46:58.274 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:46:58.275 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:46:58.277 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:46:58.278 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:46:58.279 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:46:58.279 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:46:58.284 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:46:58.285 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:46:58.285 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:46:58.285 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:46:58.288 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:46:58.289 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:46:58.292 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:46:58.292 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:46:58.293 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:46:58.293 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:46:58.310 [main] Utils - [TestNG] Running:
+  C:\Users\Hp\AppData\Local\Temp\testng-eclipse-953297928\testng-customsuite.xml
+
+[INFO ] 2024-09-20 15:46:58.352 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+[INFO ] 2024-09-20 15:46:59.336 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@1ae67cad: 680 ms
+[INFO ] 2024-09-20 15:46:59.534 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@625abb97: 198 ms
+[INFO ] 2024-09-20 15:46:59.568 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@655f7ea: 34 ms
+[INFO ] 2024-09-20 15:46:59.595 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3e10dc6: 25 ms
+[INFO ] 2024-09-20 15:46:59.617 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1021f6c9: 21 ms
+[INFO ] 2024-09-20 15:46:59.617 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7516e4e5: 0 ms
+[INFO ] 2024-09-20 15:47:30.377 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2024-09-20 15:47:30.389 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[INFO ] 2024-09-20 15:47:30.399 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:47:30.400 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:47:30.402 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:47:30.403 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:47:30.404 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:47:30.405 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:47:30.419 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+[INFO ] 2024-09-20 15:47:30.437 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
+[INFO ] 2024-09-20 15:47:30.440 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:47:30.440 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:47:30.442 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:47:30.442 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:47:30.443 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:47:30.443 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:47:30.446 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:47:30.446 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:47:30.447 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:47:30.447 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:47:30.451 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:47:30.451 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:47:30.451 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:47:30.451 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:47:30.453 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2024-09-20 15:47:30.454 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:47:30.455 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:47:30.456 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:47:30.456 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:47:30.456 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:47:30.468 [main] Utils - [TestNG] Running:
+  C:\Users\Hp\AppData\Local\Temp\testng-eclipse-1275378730\testng-customsuite.xml
+
+[INFO ] 2024-09-20 15:47:30.505 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+[INFO ] 2024-09-20 15:47:31.172 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2eced48b: 431 ms
+[INFO ] 2024-09-20 15:47:31.317 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@463b4ac8: 145 ms
+[INFO ] 2024-09-20 15:47:31.359 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@40f70521: 42 ms
+[INFO ] 2024-09-20 15:47:31.386 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5bd82fed: 25 ms
+[INFO ] 2024-09-20 15:47:31.412 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@17a87e37: 26 ms
+[INFO ] 2024-09-20 15:47:31.412 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3eeb318f: 0 ms
+[INFO ] 2024-09-20 15:52:26.337 [main] Utils - [TestNG] Running:
+  F:\EclipsData\OpenCart\Mastertestng.xml
+
+[INFO ] 2024-09-20 15:52:40.249 [main] TC001_RegistraionTest - ******TC001 RegistrationTest****
+[INFO ] 2024-09-20 15:52:40.940 [main] TC001_RegistraionTest - ****Click on MyAccount
+[INFO ] 2024-09-20 15:52:42.217 [main] TC001_RegistraionTest - ****Click on Registration
+[INFO ] 2024-09-20 15:52:42.250 [main] TC001_RegistraionTest - ***Providing details****
+[INFO ] 2024-09-20 15:52:44.035 [main] TC001_RegistraionTest - ****Validating expected message****
+[INFO ] 2024-09-20 15:54:23.527 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:54:23.540 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+[INFO ] 2024-09-20 15:54:23.543 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:54:23.544 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:54:23.545 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:54:23.546 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:54:23.547 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:54:23.547 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:54:23.563 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+[INFO ] 2024-09-20 15:54:23.584 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 20 ms.
+[INFO ] 2024-09-20 15:54:23.587 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:54:23.588 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-09-20 15:54:23.589 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:54:23.590 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:54:23.590 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:54:23.591 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:54:23.594 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:54:23.594 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:54:23.595 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:54:23.595 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:54:23.600 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:54:23.600 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:54:23.600 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:54:23.601 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:54:23.602 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2024-09-20 15:54:23.603 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:54:23.605 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:54:23.605 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:54:23.605 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-20 15:54:23.606 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-20 15:54:23.618 [main] Utils - [TestNG] Running:
+  C:\Users\Hp\AppData\Local\Temp\testng-eclipse-502581298\testng-customsuite.xml
+
+[INFO ] 2024-09-20 15:54:23.657 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+[INFO ] 2024-09-20 15:54:24.600 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@5c8504fd: 693 ms
+[INFO ] 2024-09-20 15:54:24.945 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@f001896: 344 ms
+[INFO ] 2024-09-20 15:54:24.989 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@a4ca3f6: 43 ms
+[INFO ] 2024-09-20 15:54:25.020 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1c6804cd: 29 ms
+[INFO ] 2024-09-20 15:54:25.040 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@39ad977d: 20 ms
+[INFO ] 2024-09-20 15:54:25.041 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6da00fb9: 0 ms
+[INFO ] 2024-09-20 16:03:17.675 [main] Utils - [TestNG] Running:
+  F:\EclipsData\OpenCart\Mastertestng.xml
+
+[INFO ] 2024-09-20 16:03:23.584 [main] TC001_RegistraionTest - ******TC001 RegistrationTest****
+[INFO ] 2024-09-20 16:03:24.293 [main] TC001_RegistraionTest - ****Click on MyAccount
+[INFO ] 2024-09-20 16:03:24.949 [main] TC001_RegistraionTest - ****Click on Registration
+[INFO ] 2024-09-20 16:03:24.979 [main] TC001_RegistraionTest - ***Providing details****
+[INFO ] 2024-09-20 16:03:26.784 [main] TC001_RegistraionTest - ****Validating expected message****
+[INFO ] 2024-09-20 16:03:32.538 [main] TC_002_LoginTest - ****Click on MyAccount
+[INFO ] 2024-09-20 16:03:34.391 [main] TC_002_LoginTest - ****Click on Registration
+[INFO ] 2024-09-20 16:04:57.503 [main] Utils - [TestNG] Running:
+  F:\EclipsData\OpenCart\Mastertestng.xml
+
+[INFO ] 2024-09-20 16:05:02.698 [main] TC_002_LoginTest - ****Click on MyAccount
+[INFO ] 2024-09-20 16:05:03.494 [main] TC_002_LoginTest - ****Click on Registration
+[INFO ] 2024-09-20 16:07:03.934 [main] Utils - [TestNG] Running:
+  F:\EclipsData\OpenCart\Mastertestng.xml
+
+[INFO ] 2024-09-20 16:07:09.120 [main] TC_002_LoginTest - ****Click on MyAccount
+[INFO ] 2024-09-20 16:07:09.769 [main] TC_002_LoginTest - ****Click on Registration
+[INFO ] 2024-09-20 16:10:55.338 [main] Utils - [TestNG] Running:
+  F:\EclipsData\OpenCart\Mastertestng.xml
+
+[INFO ] 2024-09-20 16:11:00.543 [main] TC001_RegistraionTest - ******TC001 RegistrationTest****
+[INFO ] 2024-09-20 16:11:01.245 [main] TC001_RegistraionTest - ****Click on MyAccount
+[INFO ] 2024-09-20 16:11:02.807 [main] TC001_RegistraionTest - ****Click on Registration
+[INFO ] 2024-09-20 16:11:02.841 [main] TC001_RegistraionTest - ***Providing details****
+[INFO ] 2024-09-20 16:11:04.588 [main] TC001_RegistraionTest - ****Validating expected message****
+[INFO ] 2024-09-20 16:11:08.666 [main] TC_002_LoginTest - ****Click on MyAccount
+[INFO ] 2024-09-20 16:11:08.988 [main] TC_002_LoginTest - ****Click on Login
+[INFO ] 2024-09-20 16:18:52.064 [main] Utils - [TestNG] Running:
+  F:\EclipsData\OpenCart\Mastertestng.xml
+
+[INFO ] 2024-09-20 16:18:57.954 [main] TC001_RegistraionTest - ******TC001 RegistrationTest****
+[INFO ] 2024-09-20 16:18:58.683 [main] TC001_RegistraionTest - ****Click on MyAccount
+[INFO ] 2024-09-20 16:18:59.459 [main] TC001_RegistraionTest - ****Click on Registration
+[INFO ] 2024-09-20 16:18:59.502 [main] TC001_RegistraionTest - ***Providing details****
+[INFO ] 2024-09-20 16:19:01.217 [main] TC001_RegistraionTest - ****Validating expected message****
+[INFO ] 2024-09-20 16:19:06.000 [main] TC_002_LoginTest - ****Click on MyAccount
+[INFO ] 2024-09-20 16:19:06.344 [main] TC_002_LoginTest - ****Click on Login
+[INFO ] 2024-09-20 16:20:00.676 [main] Utils - [TestNG] Running:
+  F:\EclipsData\OpenCart\Mastertestng.xml
+
+[INFO ] 2024-09-20 16:20:05.504 [main] TC001_RegistraionTest - ******TC001 RegistrationTest****
+[INFO ] 2024-09-20 16:20:05.698 [main] TC001_RegistraionTest - ****Click on MyAccount
+[INFO ] 2024-09-20 16:20:06.315 [main] TC001_RegistraionTest - ****Click on Registration
+[INFO ] 2024-09-20 16:20:06.326 [main] TC001_RegistraionTest - ***Providing details****
+[INFO ] 2024-09-20 16:20:08.297 [main] TC001_RegistraionTest - ****Validating expected message****
+[INFO ] 2024-09-20 16:20:12.927 [main] TC_002_LoginTest - ****Click on MyAccount
+[INFO ] 2024-09-20 16:20:13.255 [main] TC_002_LoginTest - ****Click on Login
+[INFO ] 2024-09-20 16:21:53.625 [main] Utils - [TestNG] Running:
+  F:\EclipsData\OpenCart\Mastertestng.xml
+
+[INFO ] 2024-09-20 16:21:58.165 [main] TC001_RegistraionTest - ******TC001 RegistrationTest****
+[INFO ] 2024-09-20 16:21:58.778 [main] TC001_RegistraionTest - ****Click on MyAccount
+[INFO ] 2024-09-20 16:21:59.492 [main] TC001_RegistraionTest - ****Click on Registration
+[INFO ] 2024-09-20 16:21:59.523 [main] TC001_RegistraionTest - ***Providing details****
+[INFO ] 2024-09-20 16:22:01.716 [main] TC001_RegistraionTest - ****Validating expected message****
+[INFO ] 2024-09-20 16:22:06.409 [main] TC_002_LoginTest - ****Click on MyAccount
+[INFO ] 2024-09-20 16:22:06.836 [main] TC_002_LoginTest - ****Click on Login
+[INFO ] 2024-09-20 16:23:14.559 [main] Utils - [TestNG] Running:
+  F:\EclipsData\OpenCart\Mastertestng.xml
+
+[INFO ] 2024-09-20 16:23:18.958 [main] TC001_RegistraionTest - ******TC001 RegistrationTest****
+[INFO ] 2024-09-20 16:23:19.566 [main] TC001_RegistraionTest - ****Click on MyAccount
+[INFO ] 2024-09-20 16:23:20.247 [main] TC001_RegistraionTest - ****Click on Registration
+[INFO ] 2024-09-20 16:23:20.256 [main] TC001_RegistraionTest - ***Providing details****
+[INFO ] 2024-09-20 16:23:22.329 [main] TC001_RegistraionTest - ****Validating expected message****
+[INFO ] 2024-09-20 16:23:27.201 [main] TC_002_LoginTest - ****Click on MyAccount
+[INFO ] 2024-09-20 16:23:27.544 [main] TC_002_LoginTest - ****Click on Login
+[INFO ] 2024-09-20 16:37:09.927 [main] Utils - [TestNG] Running:
+  F:\EclipsData\OpenCart\Mastertestng.xml
+
+[INFO ] 2024-09-20 16:37:15.859 [main] TC001_RegistraionTest - ******TC001 RegistrationTest****
+[INFO ] 2024-09-20 16:37:16.524 [main] TC001_RegistraionTest - ****Click on MyAccount
+[INFO ] 2024-09-20 16:37:17.130 [main] TC001_RegistraionTest - ****Click on Registration
+[INFO ] 2024-09-20 16:37:17.167 [main] TC001_RegistraionTest - ***Providing details****
+[INFO ] 2024-09-20 16:37:19.017 [main] TC001_RegistraionTest - ****Validating expected message****
+[INFO ] 2024-09-20 16:37:27.235 [main] TC_002_LoginTest - ****Click on MyAccount
+[INFO ] 2024-09-20 16:37:27.610 [main] TC_002_LoginTest - ****Click on Login
+[INFO ] 2024-09-20 16:41:28.982 [main] Utils - [TestNG] Running:
+  F:\EclipsData\OpenCart\Mastertestng.xml
+
+[INFO ] 2024-09-20 16:48:36.443 [main] Utils - [TestNG] Running:
+  F:\EclipsData\OpenCart\Mastertestng.xml
+
+[INFO ] 2024-09-20 16:48:53.542 [main] TC001_RegistraionTest - ******TC001 RegistrationTest****
+[INFO ] 2024-09-20 16:48:53.967 [main] TC001_RegistraionTest - ****Click on MyAccount
+[INFO ] 2024-09-20 16:48:56.215 [main] TC001_RegistraionTest - ****Click on Registration
+[INFO ] 2024-09-20 16:48:56.256 [main] TC001_RegistraionTest - ***Providing details****
+[INFO ] 2024-09-20 16:48:58.753 [main] TC001_RegistraionTest - ****Validating expected message****
+[INFO ] 2024-09-20 16:49:05.308 [main] TC_002_LoginTest - ****Click on MyAccount
+[INFO ] 2024-09-20 16:49:05.589 [main] TC_002_LoginTest - ****Click on Login
+[INFO ] 2024-09-20 16:50:55.933 [main] Utils - [TestNG] Running:
+  F:\EclipsData\OpenCart\Mastertestng.xml
+
+[INFO ] 2024-09-20 16:51:03.044 [main] TC_002_LoginTest - ****Click on MyAccount
+[INFO ] 2024-09-20 16:51:03.319 [main] TC_002_LoginTest - ****Click on Login
+[INFO ] 2024-09-20 16:53:53.989 [main] Utils - [TestNG] Running:
+  F:\EclipsData\OpenCart\Mastertestng.xml
+
+[INFO ] 2024-09-20 16:53:59.796 [main] TC_002_LoginTest - ****Click on MyAccount
+[INFO ] 2024-09-20 16:54:00.080 [main] TC_002_LoginTest - ****Click on Login
+[INFO ] 2024-09-20 16:57:07.473 [main] Utils - [TestNG] Running:
+  F:\EclipsData\OpenCart\Mastertestng.xml
+
+[INFO ] 2024-09-20 16:57:11.755 [main] TC_002_LoginTest - ****Click on MyAccount
+[INFO ] 2024-09-20 16:57:12.028 [main] TC_002_LoginTest - ****Click on Login
+[INFO ] 2024-09-20 17:03:28.965 [main] Utils - [TestNG] Running:
+  F:\EclipsData\OpenCart\Mastertestng.xml
+
+[INFO ] 2024-09-20 17:03:35.184 [main] TC_002_LoginTest - ****Click on MyAccount
+[INFO ] 2024-09-20 17:03:35.556 [main] TC_002_LoginTest - ****Click on Login
+[INFO ] 2024-09-20 17:06:03.159 [main] Utils - [TestNG] Running:
+  F:\EclipsData\OpenCart\Mastertestng.xml
+
+[INFO ] 2024-09-20 17:06:09.440 [main] TC_002_LoginTest - ****Click on MyAccount
+[INFO ] 2024-09-20 17:06:09.716 [main] TC_002_LoginTest - ****Click on Login
+[INFO ] 2024-09-20 17:09:44.726 [main] Utils - [TestNG] Running:
+  F:\EclipsData\OpenCart\Mastertestng.xml
+
+[INFO ] 2024-09-20 17:09:50.766 [main] TC_002_LoginTest - ****Click on MyAccount
+[INFO ] 2024-09-20 17:09:51.066 [main] TC_002_LoginTest - ****Click on Login
+[INFO ] 2024-09-20 17:10:29.981 [main] Utils - [TestNG] Running:
+  F:\EclipsData\OpenCart\Mastertestng.xml
+
+[INFO ] 2024-09-20 17:10:34.681 [main] TC_002_LoginTest - ****Click on MyAccount
+[INFO ] 2024-09-20 17:10:34.955 [main] TC_002_LoginTest - ****Click on Login
+[INFO ] 2024-09-20 17:22:44.487 [main] Utils - [TestNG] Running:
+  F:\EclipsData\OpenCart\Mastertestng.xml
+
+[INFO ] 2024-09-20 17:22:50.296 [main] TC_002_LoginTest - ****Click on MyAccount
+[INFO ] 2024-09-20 17:22:50.572 [main] TC_002_LoginTest - ****Click on Login
+[INFO ] 2024-09-20 17:35:06.225 [main] Utils - [TestNG] Running:
+  F:\EclipsData\OpenCart\Mastertestng.xml
+
+[INFO ] 2024-09-20 17:35:12.426 [main] TC_002_LoginTest - ****Click on MyAccount
+[INFO ] 2024-09-20 17:35:12.700 [main] TC_002_LoginTest - ****Click on Login
+[INFO ] 2024-09-20 17:38:45.998 [main] Utils - [TestNG] Running:
+  F:\EclipsData\OpenCart\Mastertestng.xml
+
+[INFO ] 2024-09-20 17:38:51.923 [main] TC_002_LoginTest - ****Click on MyAccount
+[INFO ] 2024-09-20 17:38:52.212 [main] TC_002_LoginTest - ****Click on Login

@@ -1,0 +1,45 @@
+[INFO ] 2024-09-17 21:00:50.367 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2024-09-17 21:00:50.377 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[INFO ] 2024-09-17 21:00:50.380 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-17 21:00:50.380 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-17 21:00:50.382 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-17 21:00:50.382 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-17 21:00:50.383 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-17 21:00:50.384 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-17 21:00:50.398 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+[INFO ] 2024-09-17 21:00:50.414 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+[INFO ] 2024-09-17 21:00:50.416 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-17 21:00:50.417 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-17 21:00:50.418 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-17 21:00:50.419 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-17 21:00:50.419 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-17 21:00:50.420 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-17 21:00:50.423 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-17 21:00:50.423 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-17 21:00:50.424 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-17 21:00:50.425 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-17 21:00:50.429 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-17 21:00:50.429 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-17 21:00:50.429 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-17 21:00:50.430 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-17 21:00:50.431 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-17 21:00:50.432 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-17 21:00:50.434 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-17 21:00:50.434 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-17 21:00:50.435 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-09-17 21:00:50.435 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-09-17 21:00:50.448 [main] Utils - [TestNG] Running:
+  C:\Users\Hp\AppData\Local\Temp\testng-eclipse--576512323\testng-customsuite.xml
+
+[INFO ] 2024-09-17 21:00:50.483 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+[INFO ] 2024-09-17 21:00:56.972 [main] TC001_RegistraionTest - ******TC001 RegistrationTest****
+[INFO ] 2024-09-17 21:00:57.557 [main] TC001_RegistraionTest - ****Click on MyAccount
+[INFO ] 2024-09-17 21:00:58.302 [main] TC001_RegistraionTest - ****Click on Registration
+[INFO ] 2024-09-17 21:00:58.336 [main] TC001_RegistraionTest - ***Providing details****
+[INFO ] 2024-09-17 21:01:00.155 [main] TC001_RegistraionTest - ****Validating expected message****
+[INFO ] 2024-09-17 21:01:01.164 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4632cfc: 427 ms
+[INFO ] 2024-09-17 21:01:01.165 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6e1f8469: 1 ms
+[INFO ] 2024-09-17 21:01:01.188 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@51dbd6e4: 22 ms
+[INFO ] 2024-09-17 21:01:01.237 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@26f96b85: 49 ms
+[INFO ] 2024-09-17 21:01:01.337 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@522ba524: 100 ms
+[INFO ] 2024-09-17 21:01:01.337 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@29c5ee1d: 0 ms

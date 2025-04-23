@@ -1,0 +1,34 @@
+[INFO ] 2024-09-18 09:36:15.467 [main] Utils - [TestNG] Running:
+  F:\EclipsData\OpenCart\Mastertestng.xml
+
+[INFO ] 2024-09-18 09:36:27.569 [main] TC001_RegistraionTest - ******TC001 RegistrationTest****
+[INFO ] 2024-09-18 09:36:28.610 [main] TC001_RegistraionTest - ****Click on MyAccount
+[INFO ] 2024-09-18 09:36:30.028 [main] TC001_RegistraionTest - ****Click on Registration
+[INFO ] 2024-09-18 09:36:30.060 [main] TC001_RegistraionTest - ***Providing details****
+[INFO ] 2024-09-18 09:36:33.774 [main] TC001_RegistraionTest - ****Validating expected message****
+[INFO ] 2024-09-18 09:45:18.972 [main] Utils - [TestNG] Running:
+  F:\EclipsData\OpenCart\Mastertestng.xml
+
+[INFO ] 2024-09-18 09:45:23.553 [main] TC001_RegistraionTest - ******TC001 RegistrationTest****
+[INFO ] 2024-09-18 09:45:24.120 [main] TC001_RegistraionTest - ****Click on MyAccount
+[INFO ] 2024-09-18 09:45:24.780 [main] TC001_RegistraionTest - ****Click on Registration
+[INFO ] 2024-09-18 09:45:24.814 [main] TC001_RegistraionTest - ***Providing details****
+[INFO ] 2024-09-18 09:45:27.102 [main] TC001_RegistraionTest - ****Validating expected message****
+[INFO ] 2024-09-18 09:46:55.718 [main] TC001_RegistraionTest - ******TC001 RegistrationTest****
+[INFO ] 2024-09-18 09:46:56.581 [main] TC001_RegistraionTest - ****Click on MyAccount
+[INFO ] 2024-09-18 09:46:57.626 [main] TC001_RegistraionTest - ****Click on Registration
+[INFO ] 2024-09-18 09:46:57.628 [main] TC001_RegistraionTest - ***Providing details****
+[INFO ] 2024-09-18 09:47:00.308 [main] TC001_RegistraionTest - ****Validating expected message****
+[INFO ] 2024-09-18 09:47:42.505 [main] Utils - [TestNG] Running:
+  F:\EclipsData\OpenCart\Mastertestng.xml
+
+[INFO ] 2024-09-18 09:47:49.431 [TestNG-tests-1] TC001_RegistraionTest - ******TC001 RegistrationTest****
+[INFO ] 2024-09-18 09:47:50.254 [TestNG-tests-1] TC001_RegistraionTest - ****Click on MyAccount
+[INFO ] 2024-09-18 09:47:50.996 [TestNG-tests-1] TC001_RegistraionTest - ****Click on Registration
+[INFO ] 2024-09-18 09:47:51.034 [TestNG-tests-1] TC001_RegistraionTest - ***Providing details****
+[INFO ] 2024-09-18 09:47:53.096 [TestNG-tests-1] TC001_RegistraionTest - ****Validating expected message****
+[INFO ] 2024-09-18 09:47:57.499 [TestNG-tests-2] TC001_RegistraionTest - ******TC001 RegistrationTest****
+[INFO ] 2024-09-18 09:47:57.878 [TestNG-tests-2] TC001_RegistraionTest - ****Click on MyAccount
+[INFO ] 2024-09-18 09:47:59.399 [TestNG-tests-2] TC001_RegistraionTest - ****Click on Registration
+[INFO ] 2024-09-18 09:47:59.401 [TestNG-tests-2] TC001_RegistraionTest - ***Providing details****
+[INFO ] 2024-09-18 09:48:00.933 [TestNG-tests-2] TC001_RegistraionTest - ****Validating expected message****

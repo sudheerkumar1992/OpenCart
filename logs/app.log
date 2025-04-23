@@ -1,0 +1,56 @@
+[INFO ] 2025-04-23 13:14:30.424 [main] TC_002_LoginTest - ****Click on MyAccount
+[INFO ] 2025-04-23 13:14:30.964 [main] TC_002_LoginTest - ****Click on Login
+[INFO ] 2025-04-23 13:14:37.340 [main] TC001_RegistraionTest - ******TC001 RegistrationTest****
+[INFO ] 2025-04-23 13:14:38.248 [main] TC001_RegistraionTest - ****Click on MyAccount
+[INFO ] 2025-04-23 13:14:40.168 [main] TC001_RegistraionTest - ****Click on Registration
+[INFO ] 2025-04-23 13:14:40.199 [main] TC001_RegistraionTest - ***Providing details****
+[INFO ] 2025-04-23 13:14:43.372 [main] TC001_RegistraionTest - ****Validating expected message****
+[INFO ] 2025-04-23 13:17:31.655 [main] TC_002_LoginTest - ****Click on MyAccount
+[INFO ] 2025-04-23 13:17:32.127 [main] TC_002_LoginTest - ****Click on Login
+[INFO ] 2025-04-23 13:17:39.098 [main] TC001_RegistraionTest - ******TC001 RegistrationTest****
+[INFO ] 2025-04-23 13:17:39.967 [main] TC001_RegistraionTest - ****Click on MyAccount
+[INFO ] 2025-04-23 13:17:40.762 [main] TC001_RegistraionTest - ****Click on Registration
+[INFO ] 2025-04-23 13:17:40.806 [main] TC001_RegistraionTest - ***Providing details****
+[INFO ] 2025-04-23 13:17:43.609 [main] TC001_RegistraionTest - ****Validating expected message****
+[INFO ] 2025-04-23 13:25:44.570 [main] TC_002_LoginTest - ****Click on MyAccount
+[INFO ] 2025-04-23 13:25:44.987 [main] TC_002_LoginTest - ****Click on Login
+[INFO ] 2025-04-23 13:25:51.125 [main] TC001_RegistraionTest - ******TC001 RegistrationTest****
+[INFO ] 2025-04-23 13:25:51.860 [main] TC001_RegistraionTest - ****Click on MyAccount
+[INFO ] 2025-04-23 13:25:53.235 [main] TC001_RegistraionTest - ****Click on Registration
+[INFO ] 2025-04-23 13:25:53.285 [main] TC001_RegistraionTest - ***Providing details****
+[INFO ] 2025-04-23 13:25:55.526 [main] TC001_RegistraionTest - ****Validating expected message****
+[INFO ] 2025-04-23 13:35:32.108 [main] TC_002_LoginTest - ****Click on MyAccount
+[INFO ] 2025-04-23 13:35:32.707 [main] TC_002_LoginTest - ****Click on Login
+[INFO ] 2025-04-23 13:35:40.460 [main] TC001_RegistraionTest - ******TC001 RegistrationTest****
+[INFO ] 2025-04-23 13:35:41.538 [main] TC001_RegistraionTest - ****Click on MyAccount
+[INFO ] 2025-04-23 13:35:42.677 [main] TC001_RegistraionTest - ****Click on Registration
+[INFO ] 2025-04-23 13:35:42.683 [main] TC001_RegistraionTest - ***Providing details****
+[INFO ] 2025-04-23 13:35:45.081 [main] TC001_RegistraionTest - ****Validating expected message****
+[INFO ] 2025-04-23 14:02:53.013 [main] TC_002_LoginTest - ****Click on MyAccount
+[INFO ] 2025-04-23 14:02:53.445 [main] TC_002_LoginTest - ****Click on Login
+[INFO ] 2025-04-23 14:02:59.242 [main] TC001_RegistraionTest - ******TC001 RegistrationTest****
+[INFO ] 2025-04-23 14:03:00.036 [main] TC001_RegistraionTest - ****Click on MyAccount
+[INFO ] 2025-04-23 14:03:00.746 [main] TC001_RegistraionTest - ****Click on Registration
+[INFO ] 2025-04-23 14:03:00.751 [main] TC001_RegistraionTest - ***Providing details****
+[INFO ] 2025-04-23 14:03:03.059 [main] TC001_RegistraionTest - ****Validating expected message****
+[INFO ] 2025-04-23 14:11:48.718 [main] TC_002_LoginTest - ****Click on MyAccount
+[INFO ] 2025-04-23 14:11:49.074 [main] TC_002_LoginTest - ****Click on Login
+[INFO ] 2025-04-23 14:11:55.035 [main] TC001_RegistraionTest - ******TC001 RegistrationTest****
+[INFO ] 2025-04-23 14:11:55.918 [main] TC001_RegistraionTest - ****Click on MyAccount
+[INFO ] 2025-04-23 14:11:56.569 [main] TC001_RegistraionTest - ****Click on Registration
+[INFO ] 2025-04-23 14:11:56.576 [main] TC001_RegistraionTest - ***Providing details****
+[INFO ] 2025-04-23 14:11:59.274 [main] TC001_RegistraionTest - ****Validating expected message****
+[INFO ] 2025-04-23 14:13:24.007 [main] TC_002_LoginTest - ****Click on MyAccount
+[INFO ] 2025-04-23 14:13:24.366 [main] TC_002_LoginTest - ****Click on Login
+[INFO ] 2025-04-23 14:13:29.960 [main] TC001_RegistraionTest - ******TC001 RegistrationTest****
+[INFO ] 2025-04-23 14:13:30.825 [main] TC001_RegistraionTest - ****Click on MyAccount
+[INFO ] 2025-04-23 14:13:31.492 [main] TC001_RegistraionTest - ****Click on Registration
+[INFO ] 2025-04-23 14:13:31.499 [main] TC001_RegistraionTest - ***Providing details****
+[INFO ] 2025-04-23 14:13:33.522 [main] TC001_RegistraionTest - ****Validating expected message****
+[INFO ] 2025-04-23 14:17:23.167 [main] TC_002_LoginTest - ****Click on MyAccount
+[INFO ] 2025-04-23 14:17:23.561 [main] TC_002_LoginTest - ****Click on Login
+[INFO ] 2025-04-23 14:17:30.846 [main] TC001_RegistraionTest - ******TC001 RegistrationTest****
+[INFO ] 2025-04-23 14:17:31.726 [main] TC001_RegistraionTest - ****Click on MyAccount
+[INFO ] 2025-04-23 14:17:32.465 [main] TC001_RegistraionTest - ****Click on Registration
+[INFO ] 2025-04-23 14:17:32.478 [main] TC001_RegistraionTest - ***Providing details****
+[INFO ] 2025-04-23 14:17:35.018 [main] TC001_RegistraionTest - ****Validating expected message****
